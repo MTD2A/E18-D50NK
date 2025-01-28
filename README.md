@@ -6,4 +6,4 @@ Among the tested IR binary reflection sensors, the E18-D50NK is definitely the b
 
 <br/>
 
-<img src="https://github.com/MTD2A/E18-D50NK/blob/main/image/SEN0503%20-%20SEN0523%20-%20E18_D50NK%20-%20E18_D80NK.png" height="600">
+<img src="https://github.com/MTD2A/E18-D50NK/blob/main/image/SEN0503%20-%20SEN0523%20-%20E18_D50NK%20-%20E18_D80NK.png">
